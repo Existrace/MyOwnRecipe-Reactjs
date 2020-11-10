@@ -8,9 +8,7 @@ Utilisation de concepts avancés de Reactjs =>
   - Context API
 
 
-## Doc officiel Create React App pour les commandes pour démarrer le projet, tester, ect...
-
-### Available Scripts
+### Doc officiel Create React App pour les commandes pour démarrer le projet, tester, ect...
 
 In the project directory, you can run:
 
